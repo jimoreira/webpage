@@ -4,3 +4,4 @@ diseno de pagina web personal
 * intentando levantar en google cloud platform
 * siguiendo con el tutorial
 1. i love github
+2. it seems that works fine
