@@ -5,3 +5,4 @@ diseno de pagina web personal
 * siguiendo con el tutorial
 1. i love github
 2. it seems that works fine
+## i dont know how to make it work from atom 
